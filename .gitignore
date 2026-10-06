@@ -1,0 +1,4 @@
+build/
+*.ppm
+*.ncu-rep
+*.nsys-rep
